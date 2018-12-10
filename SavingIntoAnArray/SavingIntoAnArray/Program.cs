@@ -22,7 +22,7 @@ namespace SavingIntoAnArray
             }
             for (int j = 0; j < arr.Length; j++)
             {
-                Write("Numbers entered were " + arr[j]);
+                Write(" Numbers entered were " + arr[j]);
             }
         }
     }
