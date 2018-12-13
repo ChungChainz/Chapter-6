@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D7CB4E3E-77CB-4FAA-8330-EEA868020F04}</ProjectGuid>
+    <ProjectGuid>{48267258-5AD9-4DDD-9289-FA1D5FAA9DB6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CheckZips</RootNamespace>
-    <AssemblyName>CheckZips</AssemblyName>
+    <RootNamespace>CheckZipsMethod</RootNamespace>
+    <AssemblyName>CheckZipsMethod</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
